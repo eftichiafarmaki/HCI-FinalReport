@@ -60,6 +60,55 @@ Eμφάνιση νέων διαδραστικών διαγραμμάτων στ�
 ![Screenshot](new3.png)
 
 
+### Μικρή αναφορά στην εργασία περιεχομένου
+
+### Σύνδεσμοι εικόνων
+
+* Virtual Reality
+
+  * https://eftichiafarmaki.github.io/gr/gallery/virtual-reality/
+
+* Apple Lisa
+
+  * https://eftichiafarmaki.github.io/gr/gallery/Apple-Lisa/
+
+* Interactive Whiteboard
+
+  * https://eftichiafarmaki.github.io/gr/gallery/Interactive-whiteboard/
+
+* Ricochetbox
+
+  * https://eftichiafarmaki.github.io/gr/gallery/Ricochetbox/
+
+* Used Punchcard
+
+  * https://eftichiafarmaki.github.io/gr/gallery/Used-Punchcard/
+  
+  ## Β ΠΑΡΑΔΟΤΕΟ
+  
+  * 3D keyboard and mouse
+  
+    * https://eftichiafarmaki.github.io/gr/remix/3D_keyboard_mouse/
+  
+  * Super Mario
+  
+    * https://eftichiafarmaki.github.io/gr/remix/SuperMario/
+  #
+  
+   
+   ### Σύνοψη
+   Με το τέλος της εργασίας έγινε κατανόηση του περιβαλλοντος github, των μειονεκτημάτων του αλλα κυρίως το εύρος πλεονεκτημάτων που παρέχει. Επίσης μέσω των ζητουμένων έγινε κατανόηση καινούργιων γλωσσών οπως αυτών της html, javascript και css οι οποίες έχουν και πολλά προταιρήματα. Τέλος, βοήθησε στην προσωπική αναζήτηση πραγμάτων με αποέλεσμα μεγαλύτερη εμπειρία.
+   
+   ### Βιβλιογραφία και συνδέσμοι
+   
+   * https://www.w3schools.com/
+   * https://d3js.org/
+   * https://developers.google.com/chart/
+   * https://stackoverflow.com/
+   * https://responsivevoice.org/
+   * https://ec.europa.eu/eurostat/web/main/home
+   
+
 
 
 
